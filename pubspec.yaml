@@ -9,7 +9,7 @@ homepage: 'https://www.mailslurp.com'
 environment:
   sdk: '>=3.0.5 <4.0.0'
 dependencies:
-  http: '1.2.2'
+  http: '1.5.0'
   intl: '^0.20.2'
   meta: '^1.1.8'
 dev_dependencies:
